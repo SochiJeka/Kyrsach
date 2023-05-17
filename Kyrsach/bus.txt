@@ -1,0 +1,19 @@
+Number: \
+Free seats: 646
+Travel time: 1
+Route: 
+- 5
+
+Number: 6
+Free seats: 45
+Travel time: 7
+Route: 
+- 5
+- 75
+- 75
+- 77
+- 6
+- route
+- a
+- stop
+
